@@ -1,4 +1,4 @@
-# Customer Churn Prediction
+ Customer Churn Prediction
 
 📌 Project Overview
 This project predicts whether a telecom customer will churn using Machine Learning techniques.
@@ -24,7 +24,7 @@ Customer churn prediction helps companies retain customers and reduce revenue lo
 
 🎯 Model Performance
 (Write your accuracy here — example:)
-Accuracy: 82%
+Accuracy: 78%
 
 ---
 
